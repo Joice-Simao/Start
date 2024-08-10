@@ -13,7 +13,7 @@ Este repositório contém os exercícios realizados durante o curso na Capgemini
 	
 ## 🧩Exercícios
 
-- <a href="https://github.com/Joice-Simao/Start/tree/main/src/main/java/exerciciosLogica">Exercícios de Lógica</a>
+- <a href="https://github.com/Joice-Simao/Start/tree/main/src/main/java/exerciciosLogica">Lógica</a>
 - <a href="https://github.com/Joice-Simao/Start/tree/main/src/main/java/exerciciosOrientacaoObjetos">Orientação a Objetos</a>
 - <a href="https://github.com/Joice-Simao/Start/tree/main/src/main/java/interfaceGrafica">Interface Gráfica</a>
 
