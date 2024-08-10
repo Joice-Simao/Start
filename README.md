@@ -29,6 +29,7 @@ O objetivo deste repositório é servir como um portfólio dos meus progressos e
  - Abra uma pull request no GitHub.
   
 ## 💜Agradecimentos
+Gostaria de expressar minha sincera gratidão ao Programa Start da Capgemini por me proporcionar essa incrível oportunidade de crescimento e aprendizado. Agradeço também aos instrutores que compartilharam seu conhecimento e experiência de forma tão generosa, além de todos os envolvidos que contribuíram para o sucesso desse programa.
 
 ## 👩🏽‍💻Autora
 
